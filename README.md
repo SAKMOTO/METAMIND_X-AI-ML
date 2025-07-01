@@ -12,3 +12,10 @@ Rename Your Notebook
 Click on "Untitled.ipynb" (top-left)
 
 Rename to METAMIND_X
+
+
+Step 2: Install & Import Libraries
+Run this in the first cell:
+
+''' 
+!pip install beautifulsoup4 requests chromadb sentence-transformers
